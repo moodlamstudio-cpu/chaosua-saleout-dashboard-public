@@ -1,0 +1,11 @@
+*.duckdb
+*.db
+*.sqlite
+Raw data/
+Master file/
+staging/
+.env
+*.pem
+*.key
+credentials*
+secrets*
